@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+.navbar-brand {
+    font-family: "Roboto", sans-serif;
+
+}
+
+.nav-link {
+    font-family: "Roboto", sans-serif;
+}
+
+.heroContainer h1 {
+    font-family: "Roboto", sans-serif;
+
+}
+.heroImg img {}
+
+.aboutContainer {
+    font-family: "Roboto", sans-serif;
+}
+
+.heroImg img{
+    animation-name: slideRight;
+    animation-duration: 1s;
+ }
+ @keyframes slideRight
+    {
+          from{transform: translatex(300%);}
+}
+
+.webImg img{
+    animation-name: slideleft;
+    animation-duration: 3s;
+ }
+ @keyframes slideleft 
+    {
+          from{transform: translatey(100%);}
+}
+
+
+.projectsContainer {
+    font-family: "Roboto", sans-serif;
+}
+
+.seeProjectConatiner {
+    font-family: "Roboto", sans-serif;
+}
+
+.seeProject1Conatiner {
+    font-family: "Roboto", sans-serif;
+}
+
+.educationContiner {
+    font-family: "Roboto", sans-serif;
+}
+
+.contactmeContainer {
+    font-family: "Roboto", sans-serif;
+}
+ 
+
+.ranjithDesignContainer {
+    font-family: "Roboto", sans-serif;
+}
